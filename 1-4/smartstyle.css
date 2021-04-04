@@ -1,0 +1,20 @@
+@media screen and (max-width: 767px) {
+    .header {
+        width: 300px;
+    }
+    .side {
+        width: 100px;
+    }
+    .content-top-left {
+        width: 125px;
+    }
+    .content-top-right {
+        width: 75px;
+    }
+}
+
+@media screen and (max-width: 479px) {
+    .wrapper {
+        width: 150px;
+    }
+}
