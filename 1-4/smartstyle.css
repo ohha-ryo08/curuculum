@@ -11,6 +11,12 @@
     .content-top-right {
         width: 75px;
     }
+    .content-bottom {
+        width: 200px;
+    }
+    .footer {
+        width: 300px;
+    }
 }
 
 @media screen and (max-width: 479px) {
