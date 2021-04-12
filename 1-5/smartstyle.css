@@ -1,0 +1,36 @@
+@media screen and (max-width: 479px){
+    .wrapper {
+        width: 200px;
+    }
+    
+    .header-inner-box1 {
+        float: none;
+        margin-right: 70px; 
+    }
+
+    .header-inner-box2 {
+        float: none;
+        margin-right: 70px; 
+    }
+
+    .header-inner-box3 {
+        float: none;
+        margin-right: 70px; 
+    }
+
+    .right-inner1 {
+        margin-top: 20px;
+        margin-left: 30px;
+    }
+
+    .right-inner2 {
+        margin-top: 10px;
+        margin-left: 30px;
+    }
+
+    .right-inner3 {
+        margin-top: 10px;
+        margin-left: 30px;
+    }
+}
+
