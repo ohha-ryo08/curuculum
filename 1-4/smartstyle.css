@@ -1,9 +1,12 @@
 @media screen and (max-width: 767px) {
-    .header {
+    .wrapper {
         width: 300px;
     }
     .side {
         width: 100px;
+    }
+    .content {
+        width: 200px;
     }
     .content-top-left {
         width: 125px;
@@ -11,16 +14,31 @@
     .content-top-right {
         width: 75px;
     }
-    .content-bottom {
-        width: 200px;
-    }
-    .footer {
-        width: 300px;
-    }
+    
 }
 
 @media screen and (max-width: 479px) {
     .wrapper {
         width: 150px;
+    }
+
+    .side {
+        width: 150px;
+        float: none;
+    }
+
+    .content {
+        width: 150px;
+        float: none;
+    }
+
+    .content-top-left {
+        width: 150px;
+        float: none;
+    }
+
+    .content-top-right {
+        width: 150px;
+        float: none;
     }
 }
