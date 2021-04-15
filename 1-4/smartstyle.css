@@ -24,6 +24,7 @@
 
     .side {
         width: 150px;
+        height: 100px;
         float: none;
     }
 
@@ -37,8 +38,18 @@
         float: none;
     }
 
+    .content-bottom {
+        height: 100px;
+    }
+
     .content-top-right {
         width: 150px;
+        height: 100px;
         float: none;
+    }
+
+    .footer {
+        position: relative;
+        top: 100px;
     }
 }
