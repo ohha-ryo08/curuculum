@@ -2,35 +2,46 @@
     .wrapper {
         width: 200px;
     }
+
+    .header {
+        width: 200px;
+        height: 220px;
+    }
     
     .header-inner-box1 {
         float: none;
-        margin-right: 70px; 
+        border-right: 10px solid #fff;
+        position: relative;
+        left: 70px;
     }
 
-    .header-inner-box2 {
+    .left {
         float: none;
-        margin-right: 70px; 
+        width: 200px;
     }
 
-    .header-inner-box3 {
+    .right {
         float: none;
-        margin-right: 70px; 
+        width: 200px;
     }
 
     .right-inner1 {
-        margin-top: 20px;
-        margin-left: 30px;
+        position: relative;
+        left: 30px;
     }
 
     .right-inner2 {
-        margin-top: 10px;
-        margin-left: 30px;
+        position: relative;
+        left: 30px;
     }
 
     .right-inner3 {
-        margin-top: 10px;
-        margin-left: 30px;
+        position: relative;
+        left: 30px;
+    }
+
+    .footer {
+        width: 200px;
     }
 }
 
