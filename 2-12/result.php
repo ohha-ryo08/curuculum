@@ -1,8 +1,6 @@
 <?php
     $my_name = $_POST['my_name'];
     $rank = $_POST['rank'];
-    $rank = $_POST['rank'];
-    $rank = $_POST['rank'];
     $number = $_POST['number'];
     ?>
     <p>お名前:<?php echo $my_name; ?></p>
