@@ -1,0 +1,52 @@
+body {
+    background-color: gray;
+    color:#fff;s
+}
+
+h1 {
+    font-size: 20px;
+    text-align: center;
+    padding-top: 80px;
+    color:#fff;
+    border-bottom: solid 5px #fff;
+}
+
+.input1 {
+    margin-left: 500px;
+    margin-top: 30px;
+}
+
+h2 {
+    text-align: center;
+    color:#fff;
+}
+
+.input2 {
+    text-align: center;
+    color:#fff
+}
+
+p {
+    text-align: center;
+    color:#fff;
+    margin-top: 20px;
+}
+
+.input3 {
+    text-align: center;
+}
+
+.result1 {
+    text-align: center;
+    color: #fff;
+}
+
+.result2 {
+    text-align: center;
+    color: #fff;
+}
+
+.result3 {
+    text-align: center;
+    color: #fff;
+}
