@@ -1,0 +1,51 @@
+.clearfix::after { 
+    content: '';
+    display: block; 
+    clear: both;
+}
+
+.header-gazo {
+    height: 120px;
+    width: 200px;
+    background-color: #add8e6;
+    float: left;
+}
+
+.header-name {
+    height: 60px;
+    width: 800px;
+    background-color: #87ceed;
+    float: left;
+}
+
+.header-login {
+    height: 60px;
+    width: 800px;
+    background-color: #00ffff;
+    float: left;
+}
+
+p {
+    float: right;
+}
+
+.main {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 120px;
+}
+
+.colum {
+    background-color: #87ceed;
+}
+
+.record {
+    background-color: #e0ffff;
+}
+
+.footer {
+    height: 50px;
+    width: 1000px;
+    float: left;
+    background-color: #00ced1;
+}
